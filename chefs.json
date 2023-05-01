@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Nusrat Jahan",
+        "yearsOfExperience": 15,
+        "bio": "Nusrat Jahan is a renowned Bangladeshi chef who has worked in various restaurants and hotels in Bangladesh and abroad. She is known for her expertise in preparing authentic Bangladeshi dishes with a modern twist.",
+        "recipes": [
+            {
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onion",
+                    "ginger-garlic paste",
+                    "tomato",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "salt",
+                    "water",
+                    "coriander leaves"
+                ],
+                "method": "Heat mustard oil in a pan, fry the fish pieces and keep them aside. In the same oil, fry onion, ginger-garlic paste, tomato, and green chili. Add cumin powder, coriander powder, turmeric, salt, and water. Add the fried fish pieces and cook for a few minutes. Garnish with coriander leaves and serve hot.",
+                "rating": 4.5,
+                "photo": "https://example.com/bengali-fish-curry.jpg"
+            },
+            {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic paste",
+                    "ginger paste",
+                    "tomato",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "water",
+                    "coriander leaves"
+                ],
+                "method": "Heat oil in a pan, fry onion, garlic paste, and ginger paste. Add tomato and green chili. Add cumin powder, coriander powder, turmeric, red chili powder, salt, and water. Cook for a few minutes. Add the beef and cook until tender. Garnish with coriander leaves and serve hot.",
+                "rating": 4.2,
+                "photo": "https://example.com/beef-bhuna.jpg"
+            },
+            {
+                "name": "Mishti Doi",
+                "ingredients": [
+                    "milk",
+                    "yogurt",
+                    "sugar",
+                    "cardamom",
+                    "clay pots"
+                ],
+                "method": "Boil milk and let it cool. Add yogurt and sugar and mix well. Add cardamom powder and pour the mixture into clay pots. Cover the pots and keep them in a warm place for a few hours. Refrigerate and serve chilled.",
+                "rating": 4.7,
+                "photo": "https://example.com/mishti-doi.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Nadia Ahmed",
+        "yearsOfExperience": 12,
+        "bio": "Nadia Ahmed is a Bangladeshi chef who specializes in vegetarian and vegan Bangladeshi cuisine. She is known for her innovative and healthy approach to traditional Bangladeshi dishes.",
+        "recipes": [
+            {
+                "name": "Chapor Ghonto",
+                "ingredients": [
+                    "mixed vegetables (papaya, potatoes, brinjal, green banana)",
+                    "chana dal",
+                    "coconut",
+                    "ginger paste",
+                    "cumin seeds",
+                    "bay leaves",
+                    "red chili powder",
+                    "turmeric",
+                    "salt",
+                    "sugar",
+                    "ghee"
+                ],
+                "method": "Boil the mixed vegetables and chana dal until tender. Grind coconut and cumin seeds into a paste. Heat ghee in a pan, fry bay leaves, ginger paste, red chili powder, turmeric, and salt. Add the boiled vegetables, chana dal, and coconut-cumin paste. Mix well and cook for a few minutes. Add sugar and ghee, and serve hot.",
+                "rating": 4.2,
+                "photo": "https://example.com/chapor-ghonto.jpg"
+            },
+            {
+                "name": "Dhokar Dalna",
+                "ingredients": [
+                    "chana dal",
+                    "turmeric",
+                    "red chili powder",
+                    "cumin powder",
+                    "coriander powder",
+                    "salt",
+                    "oil",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "onion",
+                    "ginger paste",
+                    "garlic paste",
+                    "tomatoes",
+                    "garam masala powder",
+                    "coriander leaves"
+                ],
+                "method": "Soak chana dal for a few hours, grind into a paste. Add turmeric, red chili powder, cumin powder, coriander powder, and salt to the paste. Make small cakes out of the paste, and fry them until golden brown. Heat oil in a pan, fry bay leaves, cinnamon, cardamom, and cloves. Add onion, ginger paste, garlic paste, tomatoes, and salt. Cook until the tomatoes are soft. Add water and the fried dal cakes. Cook until the gravy thickens. Garnish with garam masala powder and coriander leaves, and serve hot with rice.",
+                "rating": 4.3,
+                "photo": "https://example.com/dhokar-dalna.jpg"
+            },
+            {
+                "name": "Bhaji",
+                "ingredients": [
+                    "spinach",
+                    "potatoes",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin seeds",
+                    "coriander powder",
+                    "turmeric",
+                    "salt",
+                    "oil"
+                ],
+                "method": "Boil spinach and potatoes until tender. Heat oil in a pan, fry cumin seeds, garlic, ginger, and green chili. Add onion and fry until golden brown. Add coriander powder, turmeric, and salt. Mix well and add the boiled spinach and potatoes. Cook for a few minutes and serve hot with rice or chapati.",
+                "rating": 4.1,
+                "photo": "https://example.com/bhaji.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef3.jpg",
+        "name": "Sadia Islam Mou",
+        "yearsOfExperience": 10,
+        "bio": "Sadia Islam Mou is a young Bangladeshi chef who has gained a huge following on social media for her innovative and creative dishes. She is known for her passion for using local and seasonal ingredients in her cooking.",
+        "recipes": [
+            {
+                "name": "Aloo Posto",
+                "ingredients": [
+                    "potatoes",
+                    "poppy seeds",
+                    "green chili",
+                    "mustard oil",
+                    "turmeric",
+                    "salt"
+                ],
+                "method": "Peel and dice the potatoes. Soak the poppy seeds in water for a few hours and then grind them into a paste. Heat mustard oil in a pan, fry the diced potatoes until they are golden brown. Add the poppy seed paste, turmeric, salt, and green chili. Cook for a few minutes and serve hot.",
+                "rating": 4.4,
+                "photo": "https://example.com/aloo-posto.jpg"
+            },
+            {
+                "name": "Chingri Bhorta",
+                "ingredients": [
+                    "prawns",
+                    "onion",
+                    "green chili",
+                    "mustard oil",
+                    "salt",
+                    "coriander leaves"
+                ],
+                "method": "Boil the prawns until cooked, remove the shell and head, and mash them into a paste. Finely chop onion and green chili and mix them with the prawn paste. Add mustard oil and salt to taste. Garnish with coriander leaves and serve with rice.",
+                "rating": 4.1,
+                "photo": "https://example.com/chingri-bhorta.jpg"
+            },
+            {
+                "name": "Lau Ghonto",
+                "ingredients": [
+                    "bottle gourd",
+                    "shrimp",
+                    "onion",
+                    "ginger paste",
+                    "garlic paste",
+                    "green chili",
+                    "coriander powder",
+                    "cumin powder",
+                    "turmeric",
+                    "salt",
+                    "oil",
+                    "water",
+                    "coriander leaves"
+                ],
+                "method": "Peel and dice the bottle gourd. Heat oil in a pan, fry onion, ginger paste, and garlic paste. Add shrimp and cook for a few minutes. Add the diced bottle gourd, coriander powder, cumin powder, turmeric, salt, and water. Cook until the bottle gourd is tender. Garnish with coriander leaves and serve hot with rice.",
+                "rating": 4.3,
+                "photo": "https://example.com/lau-ghonto.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef4.jpg",
+        "name": "Mohammad Rahman",
+        "yearsOfExperience": 18,
+        "bio": "Mohammad Rahman is a renowned Bangladeshi chef who has been in the culinary industry for over 18 years. He is known for his expertise in preparing traditional Bangladeshi dishes with a modern twist. His cooking style is a perfect blend of flavors, textures, and aromas that leave a lasting impression on the taste buds.",
+        "recipes": [
+            {
+                "name": "Pitha",
+                "ingredients": [
+                    "rice flour",
+                    "sugar",
+                    "coconut",
+                    "sesame seeds",
+                    "oil"
+                ],
+                "method": "Mix rice flour with water to make a dough. Make small balls out of the dough, flatten them, and add a mixture of sugar and coconut in the center. Fold the edges to make a pouch and seal it. Boil the pithas in water until they float. Fry sesame seeds in oil and add the boiled pithas. Cook for a few minutes and serve hot.",
+                "rating": 4.4,
+                "photo": "https://example.com/pitha.jpg"
+            },
+            {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "tomatoes",
+                    "red chili powder",
+                    "turmeric",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "method": "Heat oil in a pan, fry onion until golden brown. Add garlic, ginger, red chili powder, turmeric, coriander powder, and cumin powder. Mix well and add beef. Cook until the beef is tender. Add chopped tomatoes and salt. Cook until the tomatoes are soft. Add garam masala powder and cook for a few more minutes. Serve hot with rice or naan.",
+                "rating": 4.5,
+                "photo": "https://example.com/beef-bhuna.jpg"
+            },
+            {
+                "name": "Machher Jhol",
+                "ingredients": [
+                    "fish",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "potatoes",
+                    "tomatoes",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "water",
+                    "coriander leaves"
+                ],
+                "method": "Marinate fish with turmeric and salt. Heat oil in a pan, fry the fish until golden brown. Remove the fish from the pan and keep aside. In the same oil, fry onion until golden brown. Add garlic, ginger, cumin powder, coriander powder, turmeric, red chili powder, and salt. Mix well and add potatoes and tomatoes. Cook until the tomatoes are soft. Add water and green chili. Bring to a boil and add the fried fish. Cook until the fish is tender. Garnish with coriander leaves and serve hot with rice.",
+                "rating": 4.6,
+                "photo": "https://example.com/machher-jhol.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Fatima Ahmed",
+        "yearsOfExperience": 12,
+        "bio": "Fatima Ahmed is a talented Bangladeshi chef who has been cooking for over 12 years. She has a passion for experimenting with new ingredients and flavors, and is known for her innovative approach to traditional Bangladeshi cuisine. She has won several awards for her culinary skills and is highly respected in the industry.",
+        "recipes": [
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "ghee",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "sugar"
+                ],
+                "method": "Heat oil and ghee in a pan, add bay leaves, cinnamon, cardamom, and cloves. Fry onion until golden brown. Add garlic, ginger, cumin powder, coriander powder, turmeric, red chili powder, and salt. Mix well and add prawns. Fry until the prawns turn pink. Add coconut milk and green chili. Cook for a few minutes. Add sugar and cook for a few more minutes. Serve hot with rice.",
+                "rating": 4.8,
+                "photo": "https://example.com/chingri-malai-curry.jpg"
+            },
+            {
+                "name": "Haleem",
+                "ingredients": [
+                    "beef",
+                    "lentils",
+                    "chickpeas",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "ghee",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves"
+                ],
+                "method": "Soak lentils and chickpeas overnight. Boil the beef until it's tender. Heat oil and ghee in a pan, add bay leaves, cinnamon, cardamom, and cloves. Fry onion until golden brown. Add garlic, ginger, cumin powder, coriander powder, turmeric, red chili powder, and salt. Mix well and add boiled beef, lentils, and chickpeas. Cook for a few minutes. Mash the mixture well. Add water and cook on low heat for a few hours. Serve hot with naan or paratha.",
+                "rating": 4.7,
+                "photo": "https://example.com/haleem.jpg"
+            },
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "hilsa fish",
+                    "mustard paste",
+                    "green chili",
+                    "garlic",
+                    "salt",
+                    "turmeric",
+                    "oil",
+                    "water"
+                ],
+                "method": "Marinate hilsa fish with salt and turmeric. Heat oil in a pan, fry the fish until golden brown. Remove the fish from the pan and keep aside. In the same oil, add garlic and fry until golden brown. Add mustard paste and green chili. Mix well and add water. Cook for a few minutes. Add the fried fish and cook until the fish is tender. Serve hot with rice.",
+                "rating": 4.9,
+                "photo": "https://example.com/shorshe-ilish.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Ayesha Rahman",
+        "yearsOfExperience": 8,
+        "bio": "Ayesha Rahman is a young and talented Bangladeshi chef with 8 years of experience in the culinary industry. She has a passion for cooking traditional Bangladeshi dishes and uses fresh, local ingredients in her cooking. She is known for her simple and homely cooking style, and her dishes are loved by people of all ages.",
+        "recipes": [
+            {
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves"
+                ],
+                "method": "Soak rice and lentils for 30 minutes. Heat oil in a pan, add bay leaves, cinnamon, cardamom, and cloves. Fry onion until golden brown. Add garlic, ginger, cumin powder, coriander powder, turmeric, red chili powder, and salt. Mix well and add soaked rice and lentils. Cook for a few minutes. Add water and cook on low heat for 20-25 minutes. Serve hot with a side of fried eggplant or potato.",
+                "rating": 4.5,
+                "photo": "https://example.com/bhuna-khichuri.jpg"
+            },
+            {
+                "name": "Chicken Bhuna",
+                "ingredients": [
+                    "chicken",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves"
+                ],
+                "method": "Heat oil in a pan, add bay leaves, cinnamon, cardamom, and cloves. Fry onion until golden brown. Add garlic, ginger, cumin powder, coriander powder, turmeric, red chili powder, and salt. Mix well and add chicken. Cook for a few minutes. Add water and cook on low heat until the chicken is tender. Serve hot with rice or paratha.",
+                "rating": 4.4,
+                "photo": "https://example.com/chicken-bhuna.jpg"
+            },
+            {
+                "name": "Kacchi Biryani",
+                "ingredients": [
+                    "basmati rice",
+                    "mutton",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric",
+                    "red chili powder",
+                    "salt",
+                    "oil",
+                    "ghee",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "yogurt",
+                    "milk",
+                    "saffron"
+                ],
+                "method": "Marinate mutton with yogurt, ginger, garlic, cumin powder, coriander powder, turmeric, red chili powder, and salt for at least 2 hours. Soak basmati rice for 30 minutes. Heat oil and ghee in a pan, add bay leaves, cinnamon, cardamom, and cloves. Fry onion until golden brown. Add marinated mutton and cook for a few minutes. Add water and cook on low heat until the mutton is tender. In a separate pot, boil water and add salt and whole spices. Add soaked rice and cook until half done.",
+                "rating": 4.9,
+                "photo": "https://example.com/shorshe-ilish.jpg"
+            }
+        ]
+    }
+]
