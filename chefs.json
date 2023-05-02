@@ -4,6 +4,7 @@
         "picture": "https://i.ibb.co/fp3NTYw/download-2.jpg",
         "name": "Fahad Alom",
         "yearsOfExperience": 15,
+        "numberOfRecipes": 3,
         "bio": "Fahad Alom is a renowned Bangladeshi chef who has worked in various restaurants and hotels in Bangladesh and abroad. She is known for her expertise in preparing authentic Bangladeshi dishes with a modern twist.",
         "recipes": [
             {
@@ -34,6 +35,7 @@
         "picture": "https://i.ibb.co/Kq8dbn5/download-3.jpg",
         "name": "Md Nasim",
         "yearsOfExperience": 12,
+        "numberOfRecipes": 3,
         "bio": "Md Nasim is a Bangladeshi chef who specializes in vegetarian and vegan Bangladeshi cuisine. She is known for her innovative and healthy approach to traditional Bangladeshi dishes.",
         "recipes": [
             {
@@ -64,6 +66,7 @@
         "picture": "https://i.ibb.co/d7WRqDY/images.jpg",
         "name": "Saeed Reza",
         "yearsOfExperience": 10,
+        "numberOfRecipes": 3,
         "bio": "Saeed Reza is a young Bangladeshi chef who has gained a huge following on social media for her innovative and creative dishes. She is known for her passion for using local and seasonal ingredients in her cooking.",
         "recipes": [
             {
@@ -94,6 +97,7 @@
         "picture": "https://i.ibb.co/LkqkBRX/download.jpg",
         "name": "Mohammad Ali",
         "yearsOfExperience": 18,
+        "numberOfRecipes": 3,
         "bio": "Mohammad Ali is a renowned Bangladeshi chef who has been in the culinary industry for over 18 years. He is known for his expertise in preparing traditional Bangladeshi dishes with a modern twist. His cooking style is a perfect blend of flavors, textures, and aromas that leave a lasting impression on the taste buds.",
         "recipes": [
             {
@@ -124,6 +128,7 @@
         "picture": "https://i.ibb.co/cbkVnfR/images-1.jpg",
         "name": "Shakhawat Islam",
         "yearsOfExperience": 12,
+        "numberOfRecipes": 3,
         "bio": "Shakhawat Islam is a talented Bangladeshi chef who has been cooking for over 12 years. She has a passion for experimenting with new ingredients and flavors, and is known for her innovative approach to traditional Bangladeshi cuisine. She has won several awards for her culinary skills and is highly respected in the industry.",
         "recipes": [
             {
@@ -154,6 +159,7 @@
         "picture": "https://i.ibb.co/rs5fhPt/download-1.jpg",
         "name": "Mahfuzur Rehman",
         "yearsOfExperience": 8,
+        "numberOfRecipes": 3,
         "bio": "Mahfuzur Rehman is a young and talented Bangladeshi chef with 8 years of experience in the culinary industry. She has a passion for cooking traditional Bangladeshi dishes and uses fresh, local ingredients in her cooking. She is known for her simple and homely cooking style, and her dishes are loved by people of all ages.",
         "recipes": [
             {
